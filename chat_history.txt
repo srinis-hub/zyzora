@@ -1,0 +1,6 @@
+User: question1
+Zinda: Zinda: You asked: question1
+User: question2
+Zinda: Zinda: You asked: question2
+User: question3
+Zinda: Zinda: You asked: question3
